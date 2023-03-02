@@ -1,0 +1,4 @@
+Number of contigs: 100
+Total length: 536220
+Largest contig: 9876
+N50: 6764
